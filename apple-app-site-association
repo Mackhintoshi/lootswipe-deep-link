@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.lootswipe.lootswipe",
+        "paths": [
+          "/", 
+          "swap-item", 
+          "/add-item",
+          "/manage-items",
+          "/chats/*",
+          "/match-detail/*"
+        ]
+      }
+    ]
+  }
+}
