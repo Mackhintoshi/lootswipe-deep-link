@@ -1,0 +1,1 @@
+# lootswipe-deep-link
