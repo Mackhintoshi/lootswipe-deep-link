@@ -6,7 +6,7 @@
         "appID": "com.lootswipe.lootswipe",
         "paths": [
           "/", 
-          "swap-item", 
+          "swap-item/*", 
           "/add-item",
           "/manage-items",
           "/chats/*",
